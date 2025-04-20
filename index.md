@@ -16,3 +16,7 @@ Markdown is simple and readable, perfect for documentation.
 def greet(name):
     return f"Hello, {name}!"
 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
