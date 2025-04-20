@@ -9,3 +9,10 @@ This is an example of using Markdown headers in a GitHub project.
 Markdown is simple and readable, perfect for documentation.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Sample Python Code
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
